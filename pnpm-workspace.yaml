@@ -1,4 +1,9 @@
 onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - '@tailwindcss/oxide'
+  - '@swc/core'
   - esbuild
+  - protobufjs
   - sharp
+  - unrs-resolver
   - workerd
