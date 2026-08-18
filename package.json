@@ -5,6 +5,11 @@
   "engines": {
     "node": ">=22.13.0"
   },
+  {
+  "name": "oceanplay",
+  "homepage": "https://play.atollingo.com",
+  // ... other settings
+ },
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
