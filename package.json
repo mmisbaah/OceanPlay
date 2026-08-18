@@ -2,14 +2,10 @@
   "name": "oceanplay",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://play.atollingo.com",
   "engines": {
     "node": ">=22.13.0"
   },
-  {
-  "name": "oceanplay",
-  "homepage": "https://play.atollingo.com",
-  // ... other settings
- },
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
